@@ -1,0 +1,5 @@
+hypothesis
+numpy
+pandas
+scipy
+pytest-benchmark
